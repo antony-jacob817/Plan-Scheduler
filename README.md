@@ -53,14 +53,8 @@ A sleek, professional-grade daily planner built with **React + CSS** and powered
 
 ```bash
 git clone https://github.com/antony-jacob817/Plan-Scheduler.git
-```
-```
 cd Plan-Scheduler
-```
-```
 npm install
-```
-```
 npm run dev
 ```
 
