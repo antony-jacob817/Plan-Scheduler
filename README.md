@@ -1,6 +1,6 @@
 # 📅 Plan Scheduler : Kalendo
 
-A sleek, professional-grade daily planner built with **React + CSS** and powered entirely by **localStorage**. SmartPlan Lite lets you manage tasks and events with features like monthly scheduling, category tagging, priority levels, and theme toggles — all in a clean, intuitive UI with zero backend and instant offline access.<br>
+A sleek, professional-grade daily planner built with **React + CSS** and powered entirely by **localStorage**. Kalendo lets you manage tasks and events with features like monthly scheduling, category tagging, priority levels, and theme toggles — all in a clean, intuitive UI with zero backend and instant offline access.<br>
 [🌐 Live Demo](https://kalendo-rho.vercel.app/)
 
 ---
