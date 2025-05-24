@@ -62,7 +62,7 @@ npm run dev
 
 ## 🧠 Vision
 
-**SmartPlan Lite** is built to **reimagine traditional planners** — merging clean aesthetics with functional simplicity. Inspired by **Google Calendar**, it empowers users to plan their days without distractions or data loss.
+**Kalendo** is built to **reimagine traditional planners** — merging clean aesthetics with functional simplicity. Inspired by **Google Calendar**, it empowers users to plan their days without distractions or data loss.
 
 ---
 
