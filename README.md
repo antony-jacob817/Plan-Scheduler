@@ -1,6 +1,7 @@
 # 📅 Plan Scheduler : Kalendo
 
-A sleek, Google Calendar-inspired daily planner built with **React + CSS** and powered entirely by **localStorage**. SmartPlan Lite helps you schedule tasks and events in a clean, minimal UI — no backend, no signup, just instant productivity.
+A sleek, professional-grade daily planner built with **React + CSS** and powered entirely by **localStorage**. SmartPlan Lite lets you manage tasks and events with features like monthly scheduling, category tagging, priority levels, and theme toggles — all in a clean, intuitive UI with zero backend and instant offline access.<br>
+[🌐 Live Demo](https://kalendo-rho.vercel.app/)
 
 ---
 
@@ -75,7 +76,7 @@ npm run dev
 ---
 
 ## 📸 Preview
-
+![Screenshot 2025-05-23 192412](https://github.com/user-attachments/assets/8aadd384-0c3c-4252-aab8-a139ab37f3c4)
 
 ---
 
