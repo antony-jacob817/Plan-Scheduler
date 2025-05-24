@@ -4,7 +4,7 @@ A sleek, professional-grade daily planner built with **React + CSS** and powered
 [🌐 Live Demo](https://kalendo-rho.vercel.app/)
 
 ---
- 
+
 ## 🌟 Features
 
 ### 🗓️ Calendar Views
